@@ -1,3 +1,4 @@
 # slmart-app
 # project name - slmart 
- 
+ # at the first we need to create a mongoDB account and create a clust. in the clust, we need to get a connection that adding our global ip addresses. creating the clust connection we must create the user name and the password there and need to include our url.and after we copy that url in the backend, the backend will connect to the mongodb cloud. 
+# both backend and frontend need to install node modules. ng.build -- after connecting the prod project from the production environment to the devrlopment environment, the ngserve command will run on the local host. 
